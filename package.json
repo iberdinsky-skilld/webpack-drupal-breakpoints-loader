@@ -1,6 +1,6 @@
 {
   "name": "@skilld/webpack-drupal-breakpoints-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack loader of drupal breakpoints",
   "main": "index.js",
   "scripts": {
